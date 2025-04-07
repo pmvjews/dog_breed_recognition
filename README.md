@@ -113,7 +113,7 @@ I have chosen EfficientNetB6 model to be the one to make a predictions due to be
 Make sure You have installed Git and Docker.
 To run the application locally, follow these steps:
 ```sh
-git clone https://github.com/pmajews/dog_breed_recognition.git
+git clone https://github.com/pmvjews/dog_breed_recognition.git
 ```
 Go to the cloned directory in your CMD and run this command:
 ```sh
